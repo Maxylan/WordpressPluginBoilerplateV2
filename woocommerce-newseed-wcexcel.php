@@ -47,7 +47,7 @@ define( 'WCEXCEL_DEVELOPMENT_MODE', true );
 /**
  * Plugin Directory
  */
-define( 'WCEXCEL_DIRECTORY', wp_normalize_path(__DIR__) );
+define( 'WCEXCEL_DIRECTORY', wp_normalize_path(trailingslashit(__DIR__)) );
 
 /**
  * Plugin Directory URL

@@ -148,7 +148,7 @@ class WCExcel {
 		/**
 		 * The class responsible for defining all actions that occur in the admin area.
 		 */
-		require_once WCEXCEL_DIRECTORY . 'includes/services/wcexcel-admin.class.php';
+		require_once WCEXCEL_DIRECTORY . 'includes/services/wcexcel-ajax.class.php';
 
 		/**
 		 * The class responsible for defining all actions that occur in the public-facing
