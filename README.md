@@ -1,17 +1,17 @@
 === WooCommerce Excel Products ===
-Tags: functionality, e-commerce, sales
-Requires at least Wordpress version: 6.1
-Tested up to Wordpress version: 6.1
-Min-required PHP Version: 8.1.2
-Min-required MySQL Version: 8.0.31
-Stable plugin version: 1.0.0a
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+<br>Tags: functionality, e-commerce, sales
+<br>Requires at least Wordpress version: 6.1
+<br>Tested up to Wordpress version: 6.1
+<br>Min-required PHP Version: 8.1.2
+<br>Min-required MySQL Version: 8.0.31
+<br>Stable plugin version: 1.0.0a
+<br>License: GPLv2 or later
+<br>License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 A plugin that adds excel-products, a new product-type thats created by uploading or creating an excel-dokument.
 
 == Description ==
-TODO!
+<br>TODO!
 
 A plugin that adds excel-products, a new product-type thats created by uploading or creating an excel-dokument.
 
